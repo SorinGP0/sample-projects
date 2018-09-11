@@ -1,5 +1,5 @@
 idna==2.5
-scrapy
 boto
 extruct
+w3lib
 jinja2
